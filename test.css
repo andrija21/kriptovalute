@@ -1,0 +1,78 @@
+h1{
+	font-family: "Verdana";
+	color: white;
+	text-align: center
+}
+
+h2{
+	font-family: "Verdana";
+	color: white;
+	text-align: left
+}
+
+h3{
+	font-family: "Verdana";
+	color: white;
+	text-align: left
+}
+
+
+
+
+p{
+        font-family: "Verdana";
+        font-size: medium;
+        color: white;
+
+
+
+}
+
+
+pre{
+        font-family: "Verdana";
+        font-size: medium;
+        color: white;
+}
+
+
+div{
+        font-family: "Verdana";
+        color: white;
+
+
+}
+
+
+
+UL{
+        font-family: "Verdana";
+        font-size: medium;
+        color: white;
+
+
+
+}
+
+
+
+OL{
+        font-family: "Verdana";
+        font-size: medium;
+        color: white;
+
+
+
+}
+
+
+
+.cl{ color: yellow;}
+
+.cp{ color: pink;}
+
+
+
+
+
+
